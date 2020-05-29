@@ -1,5 +1,9 @@
 {
-	"item.norsemodology.air_crystal": "Air Crystal",
 	"itemGroup.norsemodology": "Norse Modology",
-    "item.norsemodology.air_crystal_ore": "Air Crystal Ore"
+	"item.norsemodology.air_crystal": "Air Crystal",
+    "block.norsemodology.air_crystal_ore": "Air Crystal Ore",
+	"item.norsemodology.fire_crystal": "Fire Crystal",
+    "block.norsemodology.fire_crystal_ore": "Fire Crystal Ore",
+    "item.norsemodology.water_crystal": "Water Crystal",
+    "block.norsemodology.water_crystal_ore": "Water Crystal Ore"
 }

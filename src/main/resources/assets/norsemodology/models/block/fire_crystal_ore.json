@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "norsemodology:block/fire_crystal_ore"
+  }
+}
