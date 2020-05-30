@@ -5,5 +5,6 @@
 	"item.norsemodology.fire_crystal": "Fire Crystal",
     "block.norsemodology.fire_crystal_ore": "Fire Crystal Ore",
     "item.norsemodology.water_crystal": "Water Crystal",
-    "block.norsemodology.water_crystal_ore": "Water Crystal Ore"
+    "block.norsemodology.water_crystal_gravel_ore": "Water Crystal Gravel Ore",
+	"block.norsemodology.water_crystal_sand_ore": "Water Crystal Sand Ore"
 }

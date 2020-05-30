@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "norsemodology:block/water_crystal_gravel_ore"
+  }
+}
