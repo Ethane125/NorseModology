@@ -15,7 +15,7 @@ public class ModItems {
             new DeferredRegister<>(ForgeRegistries.ITEMS, NorseModology.MODID);
 
     public static final RegistryObject<Item> air_crystal = ITEMS.register("air_crystal",
-            ()-> new Item(new Item.Properties().group(ModItemGroups.MOD_ITEM_GROUP)));
+            ()-> new ItemAirCrystal(new Item.Properties().group(ModItemGroups.MOD_ITEM_GROUP)));
 
     public static final RegistryObject<Item> fire_crystal = ITEMS.register("fire_crystal",
             ()-> new Item(new Item.Properties().group(ModItemGroups.MOD_ITEM_GROUP)));
